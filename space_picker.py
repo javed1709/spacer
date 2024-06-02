@@ -32,4 +32,3 @@ while True:
     cv2.setMouseCallback("Image", mouseClick)
     cv2.waitKey(1)
 
-
